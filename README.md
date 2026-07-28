@@ -124,7 +124,7 @@ Know an MCP server that isn't listed? Open an issue with this template:
 - [ ] Add 50+ more MCP servers
 - [ ] Search by install method (npx, pip, docker)
 - [ ] "New this week" section with auto updates
-- [ ] Dark/light mode toggle
+- [*] Dark/light mode toggle
 - [ ] Hausa and Swahili UI translations
 - [ ] JSON API endpoint for programmatic access
 - [ ] Server uptime/status indicators
