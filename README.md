@@ -121,7 +121,7 @@ Know an MCP server that isn't listed? Open an issue with this template:
 
 ## Roadmap
 
-- [ ] Add 50+ more MCP servers
+-  * Add 50+ more MCP servers
 - [ ] Search by install method (npx, pip, docker)
 - [ ] "New this week" section with auto updates
 -  *  Dark/light mode toggle
