@@ -17,7 +17,7 @@
 
 ## What is this?
 
-MCP (Model Context Protocol) is an open standard that lets Claude and other AI models connect to external tools. GitHub, databases, web search, Slack, file systems, and more. But finding the right MCP server for your use case is messy and scattered.
+MCP (Model Context Protocol) is an open standard that lets AI models connect to external tools. GitHub, databases, web search, Slack, file systems, and more. But finding the right MCP server for your use case is messy and scattered.
 
 **MCP Hub** fixes that. It's a clean, searchable directory of MCP servers organized by category, with one click install commands and an AI powered recommendation engine.
 
